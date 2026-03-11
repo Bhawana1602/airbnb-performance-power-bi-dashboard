@@ -72,9 +72,9 @@ The dashboard consists of **4 analytical pages**, each focusing on a different a
 
 ### 🔎 Preview:
 
-![Ratings Analysis Page](Screenshots/Ratings 1.png)
+![Ratings Analysis Page](Screenshots/Ratings1.png)
 
-![Ratings Analysis Page](Screenshots/Ratings 2.png)
+![Ratings Analysis Page](Screenshots/Ratings2.png)
 
 -------------------------------------------------------------
 
